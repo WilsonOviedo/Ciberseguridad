@@ -1,4 +1,4 @@
-# escaneo de IPs
+# Escaneo de IPs
 ```
 arp-scan -I ens33 --localnet
 ```
